@@ -14,7 +14,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: hev # the main title
+title: hev0x # the main title
 
 tagline: Some things about security and embedded systems...  # it will display as the sub-title
 
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "https://i.pinimg.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/favicons/150150.jpg"
+avatar: "/originals/ea/b3/b0/eab3b06810d42efb4e6965d0b9769db7.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
