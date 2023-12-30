@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://i.pinimg.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/originals/ea/b3/b0/eab3b06810d42efb4e6965d0b9769db7.jpg"
+avatar: "/564x/4c/83/4e/4c834eb757337c6cd7cb699a75fc0bcc.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
