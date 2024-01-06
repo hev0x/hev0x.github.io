@@ -60,10 +60,10 @@ Up to this point it has been discussed in a basic way what the standard is about
 
 To perform the communication between the microcontroller and the GDB, it is necessary a hardware that has and enables communication through **JTAG**, in the case of AVR microcontrollers, there are some hardware possibilities in the market that provides such a function. In my case, I use [Atmel-ICE](https://www.microchip.com/en-us/development-tool/atatmel-ice) for this purpose, it is a development tool for debugging and programming ARM® Cortex®-M based Atmel® SAM and Atmel AVR® microcontrollers with On-Chip Debug capability. This tool has other interfaces that use other protocols such as *SPI*, *SWD*, *PDI*...
 
-![Atmel-ICE Hardware Debugger](https://github.com/h3v0x/h3v0x.github.io/assets/6265911/46ada125-8493-4491-9e8d-cf0b300dedd7)
+![[Atmel-ICE Hardware Debugger](https://github.com/hev0x/hev0x.github.io/assets/6265911/6d782a8b-269e-4524-a30f-205cddd64958)
 
 
-Basically, through USB, we connect the Atmel-ICE to a computer and through different protocols, we can communicate with debugging tools like GDB and perform actions already mentioned in *ARM® Cortex®-M based Atmel® SAM and Atmel AVR® microcontrollers*.
+Basically, through USB we connect the Atmel-ICE to a computer and through different protocols, we can communicate with debugging tools like GDB and perform actions already mentioned in *ARM® Cortex®-M based Atmel® SAM and Atmel AVR® microcontrollers*.
 
 ## Connecting Atmel-ICE to a JTAG AVR target
 
